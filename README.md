@@ -16,16 +16,16 @@ TaskMaster is a Flutter-based mobile application that allows users to manage the
 
 ## Dependencies
 
-[flex_color_scheme](https://pub.dev/packages/flex_color_scheme)
-[Riverpod](https://pub.dev/packages/flutter_riverpod)
-[font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
-[gap](https://pub.dev/packages/gap)
-[go_router](https://pub.dev/packages/go_router)
-[google_fonts](https://pub.dev/packages/google_fonts)
-[intl](https://pub.dev/packages/intl)
-[path](https://pub.dev/packages/path)
-[sqflite](https://pub.dev/packages/sqflite)
-[sqflite_common_ffi](https://pub.dev/packages/sqflite_common_ffi)
+- [flex_color_scheme](https://pub.dev/packages/flex_color_scheme)
+- [Riverpod](https://pub.dev/packages/flutter_riverpod)
+- [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
+- [gap](https://pub.dev/packages/gap)
+- [go_router](https://pub.dev/packages/go_router)
+- [google_fonts](https://pub.dev/packages/google_fonts)
+- [intl](https://pub.dev/packages/intl)
+- [path](https://pub.dev/packages/path)
+- [sqflite](https://pub.dev/packages/sqflite)
+- [sqflite_common_ffi](https://pub.dev/packages/sqflite_common_ffi)
 
 To install these dependencies, add the following to your 'pubspec.yaml' file and run 'flutter pub get':
 
