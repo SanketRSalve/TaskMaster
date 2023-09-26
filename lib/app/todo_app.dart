@@ -10,6 +10,7 @@ class TodoApp extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final routeConfig = ref.watch(routesProvider);
     return MaterialApp.router(
+      debugShowCheckedModeBanner: false,
       theme: AppTheme.light,
       routerConfig: routeConfig,
     );
